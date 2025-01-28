@@ -1,6 +1,6 @@
 # 🎉 Oubaida
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Web Dev/Ai Models)`**
 
 I’m Abd El Rahmen Benmegal, a 21-year-old from
 Algeria. I’m currently pursuing a degree in Business Intelligence at Mohammed El Bachir El Ibrahimi university.
